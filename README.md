@@ -1,2 +1,2 @@
 # docker-php-8.2-front
-php 8.2 composer 2 node18
+Image Docker with Debian 11 Slim, PHP 8.2, node18, composer 2
